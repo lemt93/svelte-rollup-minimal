@@ -1,1 +1,7 @@
-### About [me](http://lemt93.github.io/cv/)
+## Svelte minimal setup with rollup
+
+```javascript
+- postCss
+-- tailwindCss
+-- autoprefixer
+```
