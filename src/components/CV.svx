@@ -66,11 +66,12 @@
 # Relevant Work Experience
 ### GoBear VN
 (*July 2020 - Now*) --- **Senior/Lead FE Engineer**
-- Building insurance purchase flow, focusing on providing user best experience for customizing their plan
+- Using Nuxt/Vue to Build Purchase Form/flow that highly customizable by the product team, also providing end-user quickest way to customize their plan while filling their policy
 - Analyzing requirements from product team, discussing and proposing ideas for a better design
 - Resolving task dependency with BE team, oversight my teammates and maintaining code quality
 - Refactoring codebase to unify 2 branches of 2 products into one. The purpose is to provide flexibility, convenient ways configuring products and ease of deployment.
-
+- Leverage Nuxt (SSR) to rewrite data flow, to optimize TTFB (Time-to-first-byte), TTI (Time- to-interactive), also to resolve security concerns for API that should not be exposed to outside-world"
+  
 ---
 ### KMS Technology
 #### Ceterus
@@ -106,6 +107,7 @@ team to provide smooth infrastructure for the internal team.
 (*July 2016 – Oct 2018*) --- **FE Engineer**
 - Working independently and effectively with assigned tasks, clarify requirements with QA and BA if needed.
 - Using Ember and JointJS to implement intensive interaction feature, such as: draw org chart and allow user to interact with it (drag/drop/update attributes)
+- Was able to resolve render performance issues by removing unnecessary DOM access on data changed (even accessing some DOM props could cause reflow/layout)!
 
 #### Internal tools of KMS
 (*May 2016 – July 2016*) --- **FE Engineer**
